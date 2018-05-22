@@ -495,4 +495,12 @@
             </reporting>
         </profile>
     </profiles>
+     </profiles>
+     <distributionManagement>
+        <repository>
+            <id></id>
+            <name>bs-eppix</name>
+            <url>http://10.194.4.8:8081/repository/bs-eppix/</url>
+        </repository>
+    </distributionManagement>
 </project>
